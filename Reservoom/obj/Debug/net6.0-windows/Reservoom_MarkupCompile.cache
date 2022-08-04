@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\App.xaml
-11407045341
+3-651115779
 
-81971312491
+19374199447
 194-1951243044
-MainWindow.xaml;
+MainWindow.xaml;Views\MakeReservationView.xaml;Views\ReservationListingView.xaml;
 
-False
+True
 

@@ -19,3 +19,9 @@ C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.
 C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Reservoom.pdb
 C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Reservoom.genruntimeconfig.cache
 C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\ref\Reservoom.dll
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Views\MakeReservationView.g.cs
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Views\ReservationListingView.g.cs
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Views\MakeReservationView.baml
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\Views\ReservationListingView.baml
+C:\Users\N_Kholmamadov\source\repos\WPF_APPS\Reservoom\Reservoom\obj\Debug\net6.0-windows\App.baml
